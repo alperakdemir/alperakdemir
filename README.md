@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .Net
-- 🌱 I’m currently learning IDE
+- 🔭 I’m currently working on ASP.Net
 - 💬 Ask me about anything
 - 📫 How to reach me: alperakdemir004@gmail.com
 - 😄

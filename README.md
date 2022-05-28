@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Alper :smoking:</h1>
-<h3 align="center">A Tryhard .Net Developer From Turkey</h3>
+<h1 align="center">Hi, I'm Alper </h1>
+<h3 align="center">.Net Developer </h3>
 <div display="flex"><p align="center"><img width =1000px src="https://c.tenor.com/4ScF-fojlWwAAAAC/velkov.gif" alt="alperakdemir" /></p></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperakdemir" alt="alperakdemir" /></a> </p>
